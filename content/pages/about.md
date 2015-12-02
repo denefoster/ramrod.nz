@@ -1,4 +1,7 @@
 Title: about
 Date: 2012-12-01 10:02
+Authors: dane foster
 
-About
+A couple of guys who had a dream.. to race a bucket of bits on a gokart track
+
+
