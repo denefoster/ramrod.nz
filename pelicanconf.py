@@ -29,7 +29,7 @@ SITELOGO_SIZE = '28'
 #BANNER_SUBTITLE = 'SAY IT'
 #ABOUT_ME = '<img src="/static/carramrod.png" width="48"/>'
 SHOW_ARTICLE_AUTHOR = True
-TYPOGRIFY = True
+#TYPOGRIFY = True
 STATIC_PATHS = ['static',
                 'extra/robots.txt',
                 'code',]
@@ -49,6 +49,7 @@ PLUGINS = ["related_posts",
            "tipue_search",
            "sitemap",
            "better_figures_and_images",
+           "optimize_images",
            "pelican_youtube"]
 DIRECT_TEMPLATES = ['index', 'archives', 'search']
 RESPONSIVE_IMAGES = True
