@@ -48,8 +48,10 @@ PLUGIN_PATHS = ["plugins",]
 PLUGINS = ["related_posts",
            "tipue_search",
            "sitemap",
-           "better_figures_and_images",
-           "optimize_images",
+#           "better_figures_and_images",
+#           "optimize_images",
+           "photos",
+#           "thumbnailer",
            "pelican_youtube"]
 DIRECT_TEMPLATES = ['index', 'archives', 'search']
 RESPONSIVE_IMAGES = True
@@ -73,8 +75,14 @@ AUTHOR_FEED_RSS = None
 DEFAULT_PAGINATION = 10
 CC_LICENSE = 'CC-BY'
 
+
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
+PHOTO_LIBRARY = "/Users/dene/devel/ramrod.nz/images"
+#PHOTO_GALLERY = (1024, 768, 80)
+#PHOTO_ARTICLE = ( 760, 506, 80)
+#PHOTO_THUMB = (192, 144, 60)
+
 SITEMAP = {
     'format': 'xml',
     'priorities': {

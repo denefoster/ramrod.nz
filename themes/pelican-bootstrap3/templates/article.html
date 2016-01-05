@@ -85,6 +85,7 @@
                         {% include "includes/article_info.html" %}
                     </div>
                 </div>
+                {% if article.photo_image %}<img src="{{ SITEURL }}/{{ article.photo_image[1] }}" />{% endif %}
                 {{ article.content }}
             </div>
             <!-- /.entry-content -->
@@ -108,4 +109,11 @@
     <!-- add shariff support -->
     <script src="{{ SITEURL }}/theme/js/shariff.min.js"></script>
 {% endif %}
+{% if article.photo_gallery %}
+    <div class="gallery">
+        {% for name, photo, thumb, exif, caption in article.photo_gallery %}
+        <a href="{{ SITEURL }}/{{ photo }}" title="{{ name }}" exif="{{ exif }}" caption="{{ caption }}"><img src="{{ SITEURL }}/{{ thumb }}"></a>
+        {% endfor %}
+    </div>
+    {% endif %}
 {% endblock %}
