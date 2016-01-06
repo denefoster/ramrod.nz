@@ -5,9 +5,11 @@ Authors: dane foster
 
 ![Image]({filename}/static/IMG_1752.JPG)
 
-Frame: Suzuki RGV250
+Frame: Yamaha TZR250 1kt
 
 Engine: Suzuki TF125
 
 Wheels: Suzuki RG150
+
+Sliders: [Big Knobs](http://www.bigknobs.com.au)
 
