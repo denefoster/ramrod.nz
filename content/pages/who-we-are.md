@@ -9,11 +9,11 @@ Summary: who we are
 
 A rake and a roustabout, this is what we expect dane to look like on the track;
 
-![dane IRL]({filename}/static/1318792090727544135.png)
+![dane IRL]({photo}/us/1318792090727544135.png)
 
 #### The Mechanic
 
 Fixes stuff
 
-![d2g]({filename}/static/mech.jpg)
+![d2g]({photo}/us/mech.jpg)
 
