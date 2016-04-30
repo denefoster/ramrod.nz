@@ -3,7 +3,7 @@ Tags: bike
 Summary: info about the bike
 Authors: dane foster
 
-![bike]({photo}bike/bike.jpg)
+![bike]({photo}bike/IMG_5918.jpeg)
 
 Frame: Yamaha TZR250 1KT
 
