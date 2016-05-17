@@ -3,6 +3,7 @@ Tags: race, fail
 Slug: first-race
 Authors: dane foster
 Summary: The first race... well, it went
+Date: 2016-03-30 19:17
 
 So we passed scrutineering with the bike as we got it more or less, no tune on the engine, bits replaced with stock or similar to get it to a point where it's ridable.. and well, it sucked.
 

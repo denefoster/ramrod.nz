@@ -2,6 +2,7 @@ Title: Where we came from, and what we are now
 Tags: bike
 Summary: As my main girl Loretta says, we've come a long way baby
 Authors: dane foster
+Date: 2016-04-30 18:17
 
 This was our first view of the bike when picking it up:
 
