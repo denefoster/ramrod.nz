@@ -9,7 +9,7 @@ So we showed up bright and early for race day #2 with our shiny [new-look](photo
 
 So up and down the small hill a few times in leathers and helmet. Man, hard work. Ended up dropping the bike at a standstill, scraping up my palm, and knocking off the gear shift toe bar (important for later!)
 
-After a bit of mucking around, got it running and all seemed well enough, and the call came out for the next B grade race. Notcing my shift knob was still a bit loose form the tumble I did my best to cut a line, and try to safety wire it on and off to the start line we went !
+After a bit of mucking around, got it running and all seemed well enough, and the call came out for the next B grade race. Noticing my shift knob was still a bit loose form the tumble I did my best to cut a line, and try to safety wire it on and off to the start line we went !
 
 The on-board race:
 
