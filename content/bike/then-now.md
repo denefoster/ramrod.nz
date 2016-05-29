@@ -6,13 +6,13 @@ Date: 2016-04-30 18:17
 
 This was our first view of the bike when picking it up:
 
-![]({photo}then-now/IMG_1748.JPG)
+![original bike]({photo}then-now/IMG_1748.JPG)
 
 It wasn't all that pretty, and wasn't at all rideable, but the hard work of making a TF125 fit had been done, so a good place to start
 
 And man look at it now,
 
-![]({photo}bike/IMG_5918.jpeg)
+![new hotness]({photo}bike/IMG_5918.jpeg)
 
 I'd list all the things replaced/rebuilt, but the list of what's the same is *much* smaller:
 

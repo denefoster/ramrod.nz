@@ -5,7 +5,7 @@ Authors: dane foster
 Date: 2016-05-16 20:17
 
 
-![]({photo}front-brakes/IMG_1943.JPG)
+![gross]({photo}front-brakes/IMG_1943.JPG)
 
 All that crap came out with the old piston.
 
