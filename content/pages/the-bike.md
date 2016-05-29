@@ -7,6 +7,10 @@ Authors: dane foster
 
 Frame: Yamaha TZR250 1KT
 
+Front suspenstion: TZR250 1KT
+
+Rear suspension: Yamaha R6 RJ03
+
 Engine: Suzuki TF125
 
 Wheels: Yamaha TZR250 1KT
