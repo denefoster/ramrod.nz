@@ -6,7 +6,7 @@ Date: 2016-07-07 18:27
 
 Both tf125s I've got came with some piece of horseshit vm24, which was a pain to start (it broke two drills so far!) and one plain [fell apart]({filename}/race/race-day-3.md)
 
-I knew I'd need a new carb at some point anyhow, and finally was able to CAD up the part I'd need to adapt the more common spigot mount to the flange on the tf125 intake side.
+I knew I'd need a new carb at some point anyhow, and finally was able to CAD up the part I'd need to adapt the more common spigot mount to the flange on the tf125 intake side. Thank to Dean P for the CAD help !
 
 The design
 
