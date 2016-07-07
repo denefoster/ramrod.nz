@@ -8,7 +8,15 @@ Both tf125s I've got came with some piece of horseshit vm24, which was a pain to
 
 I knew I'd need a new carb at some point anyhow, and finally was able to CAD up the part I'd need to adapt the more common spigot mount to the flange on the tf125 intake side.
 
+The design
+
+![intake CAD]({photo}new-flatslide/intake.png)
+
+And the result.
+
 ![intake manifolds]({photo}new-flatslide/IMG_1991.JPG)
+
+totally badass, and super kudos to [Farra Engineering](http://www.farra.co.nz), they'll get any more work I need done.
 
 And a new TM24 ordered from [MikuniOZ](http://www.mikunioz.com/), they were great to deal with.
 
