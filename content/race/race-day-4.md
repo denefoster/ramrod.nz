@@ -25,12 +25,12 @@ This! This is what a race should be like. Bike felt *good* for the first time. S
 
 Next race, not sure if it's because I was a bit tired, but just was crap. Back stepped out a few times, got scooped by the mini-moto and an fxr. Bike still ran well enough though.
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/JsaJFepl9Aw" frameborder="0" allowfullscreen></iframe>
+<iframe width="854" height="360" src="https://www.youtube.com/embed/JsaJFepl9Aw" frameborder="0" allowfullscreen></iframe>
 
 
 Third race, back to feeling pretty good on the track. Still got whooped by the same mini and fxr, and my legs are starting to feel the burn. Got the rear back in line (just hang off more they say, it'll be fine they say.. and it is !)
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/rYp043uSBVM" frameborder="0" allowfullscreen></iframe>
+<iframe width="854" height="360" src="https://www.youtube.com/embed/rYp043uSBVM" frameborder="0" allowfullscreen></iframe>
 
 And now it's my body that fails before the bike. Legs are pretty shaky, so decide to pack it up.
 
