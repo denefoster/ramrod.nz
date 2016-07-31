@@ -9,7 +9,7 @@ Summary: who we are
 
 A rake and a roustabout, this is what we expect dane to look like on the track;
 
-![dane IRL]({photo}/us/1318792090727544135.png)
+![dane IRL]({photo}/us/rider.jpg)
 
 #### The Mechanic
 
