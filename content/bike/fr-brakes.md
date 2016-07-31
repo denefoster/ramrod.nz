@@ -1,5 +1,6 @@
 Title: New front brakes
 Tags: bike, brakes
+Slug: new-front-brakes
 Summary: new front brake setup
 Authors: dane foster
 Date: 2016-02-28 10:08
