@@ -2,7 +2,7 @@ Title: Race Day Aug 14, 2016
 Tags: race, success
 Slug: fifth-race
 Authors: dane foster
-Summary: Another race day and this time nothing broke !
+Summary: getting this GPS thing sorted out
 Date: 2016-08-17 10:07
 
 I thought this was going to be the endurance race for some reason, so was all ready for a 45min debacle, alas, normal race day it is.
