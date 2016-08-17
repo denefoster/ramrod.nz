@@ -15,13 +15,16 @@ with nothing to fix (aside from being slow as, but fixing that will come later)
 The good news is that I've now got a video + GPS -> sane output pipeline setup.
 
 Race 1:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hn1nMr9-wWA" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DeCJ91FIvoU" frameborder="0" allowfullscreen></iframe>
 
 Race 2:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0obNxJ0PE4Y" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MCyDUSju-kw" frameborder="0" allowfullscreen></iframe>
 
 Race 3:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9npar5w3NAo" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Y-uOregYpMw" frameborder="0" allowfullscreen></iframe>
 
 Race 4 had a camera mulfunction, but it was a bit shit house anyways.
 
