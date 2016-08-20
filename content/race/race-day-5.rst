@@ -18,24 +18,24 @@ The good news is that I've now got a video + GPS -> sane output pipeline setup.
 
 Race 1:
 
-.. youtube:: DeCJ91FIvoU
+.. youtube:: DeCJ91FIvoU&rel=0
     :class: youtube-16x9
     :allowfullscreen: yes
-    :seamless: no
+    :seamless: yes
 
 Race 2:
 
-.. youtube:: MCyDUSju-kw
+.. youtube:: MCyDUSju-kw&rel=0
     :class: youtube-16x9
     :allowfullscreen: yes
-    :seamless: no
+    :seamless: yes
 
 Race 3:
 
-.. youtube:: Y-uOregYpMw
+.. youtube:: Y-uOregYpMw&rel=0
     :class: youtube-16x9
     :allowfullscreen: yes
-    :seamless: no
+    :seamless: yes
 
 Race 4 had a camera mulfunction, but it was a bit shit house anyways.
 
