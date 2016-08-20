@@ -18,21 +18,21 @@ The good news is that I've now got a video + GPS -> sane output pipeline setup.
 
 Race 1:
 
-.. youtube:: DeCJ91FIvoU&rel=0
+.. youtube:: DeCJ91FIvoU
     :class: youtube-16x9
     :allowfullscreen: yes
     :seamless: yes
 
 Race 2:
 
-.. youtube:: MCyDUSju-kw&rel=0
+.. youtube:: MCyDUSju-kw
     :class: youtube-16x9
     :allowfullscreen: yes
     :seamless: yes
 
 Race 3:
 
-.. youtube:: Y-uOregYpMw&rel=0
+.. youtube:: Y-uOregYpMw
     :class: youtube-16x9
     :allowfullscreen: yes
     :seamless: yes
