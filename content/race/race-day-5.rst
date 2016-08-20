@@ -1,9 +1,11 @@
-Title: Race Day Aug 14, 2016
-Tags: race, success
-Slug: fifth-race
-Authors: dane foster
-Summary: getting this GPS thing sorted out
-Date: 2016-08-17 10:07
+Race Day Aug 14, 2016
+#####################
+
+:tags: race, success
+:slug: fifth-race
+:authors: dane foster
+:summary: getting this GPS thing sorted out
+:date: 2016-08-17 10:07
 
 I thought this was going to be the endurance race for some reason, so was all ready for a 45min debacle, alas, normal race day it is.
 
@@ -16,15 +18,24 @@ The good news is that I've now got a video + GPS -> sane output pipeline setup.
 
 Race 1:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DeCJ91FIvoU" frameborder="0" allowfullscreen></iframe>
+.. youtube:: DeCJ91FIvoU
+    :class: youtube-16x9
+    :allowfullscreen: yes
+    :seamless: no
 
 Race 2:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MCyDUSju-kw" frameborder="0" allowfullscreen></iframe>
+.. youtube:: MCyDUSju-kw
+    :class: youtube-16x9
+    :allowfullscreen: yes
+    :seamless: no
 
 Race 3:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Y-uOregYpMw" frameborder="0" allowfullscreen></iframe>
+.. youtube:: Y-uOregYpMw
+    :class: youtube-16x9
+    :allowfullscreen: yes
+    :seamless: no
 
 Race 4 had a camera mulfunction, but it was a bit shit house anyways.
 
