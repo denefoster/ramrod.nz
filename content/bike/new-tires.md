@@ -25,7 +25,7 @@ Slot the wheel on, problem #2. The previous set of spacers were ~4mm too wide wi
 
 Straight enough for buckets !
 
-Doesn't even bind up when tightening the rear axle. Improvement!
+Doesn't even bind up when tightening the rear axle. Improvement! Now we're running a 3.50 with a 120/60R17 (rather than 2.50 with 100/80R17).
 
 ![new rear setup]({photo}new-slicks/IMG_0013.jpg)
 
