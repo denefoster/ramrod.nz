@@ -5,7 +5,7 @@ Authors: dane foster
 Date: 2016-09-17 09:27
 
 
-Finally have the troika of a new set of slicks, wheels they'll fit on, and time to shove them onto the bike. Battleax V02s huzzah !
+Finally have the troika of a new set of slicks, wheels they'll fit on, and time to shove them onto the bike. Battlax V02s huzzah !
 
 I have a set of FZR400 1WG wheels, 3.50x17 rear, and 2.50x17 front. The rear shouldn't be an issue, but the front is made for a 15mm axle, and mine is 12. There does exist a set of bearings, 6401-2RS which are 12x42x13, which would make things just work.. alas I can't seem to actually buy them.
 
