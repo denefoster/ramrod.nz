@@ -32,15 +32,18 @@ SHOW_ARTICLE_AUTHOR = True
 #TYPOGRIFY = True
 STATIC_PATHS = ['static',
                 'extra/robots.txt',
+                'extra/favicon.ico',
                 'code',]
 
 EXTRA_PATH_METADATA = {
-    'extra/robots.txt': {'path': 'robots.txt'},
+    'extra/robots.txt':  {'path': 'robots.txt'},
+    'extra/favicon.ico': {'path': 'favicon.ico'},
 }
 
 # Tell Pelican to change the path to 'static/custom.css' in the output dir
 EXTRA_PATH_METADATA = {
-    'extra/robots.txt': {'path': 'robots.txt'}
+    'extra/robots.txt': {'path': 'robots.txt'},
+    'extra/favicon.ico': {'path': 'favicon.ico'},
 }
 
 
