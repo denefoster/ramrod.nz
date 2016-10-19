@@ -28,7 +28,7 @@ Race 1.. of 1, part 1, cue running:
    <br />
 
 |br|
-Not a bad start, the orange devil kicked in first go and we're off. First time on slicks and holy fuck. I reckon it could probably ride upside down, it's rediculously sticky. Feeling pretty good and getting into a rhythm.
+Not a bad start, the orange devil kicked in first go and we're off. First time on slicks and holy fuck. I reckon it could probably ride upside down, it's ridiculously sticky. Feeling pretty good and getting into a rhythm.
 
 Part 2, it starts to go wrong:
 
