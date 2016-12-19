@@ -7,15 +7,19 @@ Authors: dane foster
 
 Frame: Yamaha TZR250 1KT
 
-Front suspenstion: TZR250 1KT
+Front suspenstion: TZR250 1KT 39mm
 
 Rear suspension: Yamaha R6 RJ03
 
 Engine: Suzuki TF125
 
-Wheels: Yamaha TZR250 1KT
+Front Wheels: Yamaha TZR250 1KT
 
-Tires: Bridgestone BT39SS
+Rear Wheels: FZR400 3LG
+
+Tires: Racing Battlax V02
+
+Chain: 428 132L
 
 Sliders: [Big Knobs](http://www.bigknobs.com.au)
 
