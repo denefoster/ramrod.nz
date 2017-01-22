@@ -24,9 +24,9 @@ Which is mostly setup. Has slicks, decent rear sets, brakes, etc.
 
 Thus begins the work of readying a new bike, the current list of parts needed:
 
- * intake manifold
+ * <s>intake manifold</s>
 
- * 428 front sprocket
+ * <s>428 front sprocket</s>
 
  * radiator hoses
 
