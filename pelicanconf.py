@@ -39,6 +39,8 @@ EXTRA_PATH_METADATA = {
     'extra/robots.txt':  {'path': 'robots.txt'},
     'extra/favicon.ico': {'path': 'favicon.ico'},
 }
+PAGE_URL = '{slug}.html'
+PAGE_SAVE_AS = '{slug}.html'
 
 # Tell Pelican to change the path to 'static/custom.css' in the output dir
 EXTRA_PATH_METADATA = {

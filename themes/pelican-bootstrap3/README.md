@@ -1,19 +1,23 @@
 # pelican-bootstrap3
 
-This is a Bootstrap 3 theme for Pelican. It's fully responsive. Bootstrap 3 has seen an official, final release now, so
-I don't expect any breaking changes anymore. I will try to keep it up-to-date.
+This is a Bootstrap 3 theme for Pelican, originally developed by
+[DandyDev](https://github.com/DandyDev).  It's fully responsive and contains
+sub-themes from the Bootswatch project.  Pelican-bootstrap3 is compatible with
+Pelican 3.3.0 and higher.
 
 ## CONTRIBUTING
 
-If you want to adjust this theme to your own liking, I encourage you to fork it. This theme has started to gather more
-and more attention in the form of stars and forks. If you make improvements that are useful to others and can make the
-theme better in general **please don't hesitate to make a pull request**. For contributing guidelines, [look here](CONTRIBUTING.md)
+If you want to adjust this theme to your own liking, we encourage you to fork
+it. This theme has started to gather more and more attention in the form of
+stars and forks. If you make improvements that are useful to others and can
+make the theme better in general **please don't hesitate to make a pull
+request**. For contributing guidelines, [look here](CONTRIBUTING.md)
 
 ## Installation
 
 First:
 
-`git clone https://github.com/DandyDev/pelican-bootstrap3.git`
+`git clone https://github.com/getpelican/pelican-themes.git`
 
 Then:
 
@@ -37,27 +41,42 @@ This theme honors the following standard Pelican settings:
 	* `DISQUS_SITENAME`
 	* `PIWIK_URL`, `PIWIK_SSL_URL` and `PIWIK_SITE_ID`
 
-It uses the `tag_cloud` variable for displaying tags in the sidebar. You can control the amount of tags shown with: `TAG_CLOUD_MAX_ITEMS`
+It uses the `tag_cloud` variable for displaying tags in the sidebar. You can
+control the amount of tags shown with: `TAG_CLOUD_MAX_ITEMS`
 
 ## Extras
 
 ### Bootswatch and other Bootstrap 3 themes
 
-Part of the versatility of this theme comes from the fact that I included all the lovely Bootstrap 3 themes from [Bootswatch](http://bootswatch.com/), built by [Thomas Park](https://github.com/thomaspark). You can tell Pelican what Bootswatch theme to use, by setting `BOOTSTRAP_THEME` to the desired theme, in lowercase (ie. 'readable' or 'cosmo' etc.). My own site is using _Simplex_. If you want to use any other Bootstrap 3 compatible theme, just put the minified CSS in the `static/css` directory and rename it using the following naming scheme: `bootstrap.{theme-name}.min.css`. Then update the `BOOTSTRAP_THEME` variable with the _theme-name_ used.
+Part of the versatility of this theme comes from the fact that I included all
+the lovely Bootstrap 3 themes from [Bootswatch](http://bootswatch.com/), built
+by [Thomas Park](https://github.com/thomaspark). You can tell Pelican what
+Bootswatch theme to use, by setting `BOOTSTRAP_THEME` to the desired theme, in
+lowercase (ie. 'readable' or 'cosmo' etc.). My own site is using _Simplex_. If
+you want to use any other Bootstrap 3 compatible theme, just put the minified
+CSS in the `static/css` directory and rename it using the following naming
+scheme: `bootstrap.{theme-name}.min.css`. Then update the `BOOTSTRAP_THEME`
+variable with the _theme-name_ used.
 
 ### Article info
 
-Set `SHOW_ARTICLE_AUTHOR` to True to show the author of the article at the top of the article and in the index of articles. Set `SHOW_ARTICLE_CATEGORY` to show the Category of each article. Set `SHOW_DATE_MODIFIED` to True to show the article modified date next to the published date.
+Set `SHOW_ARTICLE_AUTHOR` to True to show the author of the article at the top
+of the article and in the index of articles. Set `SHOW_ARTICLE_CATEGORY` to
+show the Category of each article. Set `SHOW_DATE_MODIFIED` to True to show the
+article modified date next to the published date.
 
 ### Custom CSS
 
-If you want to add custom css to the theme, without having to clone and maintain your own version of the theme, you can use the `CUSTOM_CSS` variable. The value is the location where you tell Pelican to put the file (see below):
+If you want to add custom css to the theme, without having to clone and
+maintain your own version of the theme, you can use the `CUSTOM_CSS` variable.
+The value is the location where you tell Pelican to put the file (see below):
 
 ```
 CUSTOM_CSS = 'static/custom.css'
 ```
 
-To tell Pelican to copy the relevant file to the desired destination, add the path to `STATIC_PATHS` and the destination to `EXTRA_PATH_METADATA`, like so:
+To tell Pelican to copy the relevant file to the desired destination, add the
+path to `STATIC_PATHS` and the destination to `EXTRA_PATH_METADATA`, like so:
 
 ```
 # Tell Pelican to add 'extra/custom.css' to the output dir
@@ -71,7 +90,9 @@ EXTRA_PATH_METADATA = {
 
 ### Pygments
 
-You can choose the syntax highlighting style by using the `PYGMENTS_STYLE` variable to specify one of the built-in Pygments styles. By default the `native` style is used. The following styles are avaiable:
+You can choose the syntax highlighting style by using the `PYGMENTS_STYLE`
+variable to specify one of the built-in Pygments styles. By default the
+`native` style is used. The following styles are avaiable:
 
 - autumn
 - borland
@@ -99,21 +120,29 @@ For a demo of the different Pygment styles, have a look [here](http://pygments.o
 
 ### Pagination
 
-Pelican-Bootstrap3 follows the standard Pagination settings of Pelican and uses the Bootstrap3 [Pagination component](http://getbootstrap.com/components/#pagination), but you can optionally use the Boostrap3 _Pager_ by setting `USE_PAGER` to `True`.
+Pelican-Bootstrap3 follows the standard Pagination settings of Pelican and uses
+the Bootstrap3 [Pagination
+component](http://getbootstrap.com/components/#pagination), but you can
+optionally use the Boostrap3 _Pager_ by setting `USE_PAGER` to `True`.
 
 ### Bootstrap fluid layout
 
-If you'd like to use the fluid container layout from Bootstrap, set the flag `BOOTSTRAP_FLUID` to _True_.
+If you'd like to use the fluid container layout from Bootstrap, set the flag
+`BOOTSTRAP_FLUID` to _True_.
 
 ### Site Brand
 
-You can provide a logo for your site using `SITELOGO`. For example: `SITELOGO = 'images/my_site_logo.png'`. You can then define the size of the logo using `SITELOGO_SIZE`. The `width` of the `<img>` element will be set accordingly.
+You can provide a logo for your site using `SITELOGO`. For example: `SITELOGO =
+'images/my_site_logo.png'`. You can then define the size of the logo using
+`SITELOGO_SIZE`. The `width` of the `<img>` element will be set accordingly.
 
 By default the `SITENAME` will be shown as well. It's also possible to hide the site name using the `HIDE_SITENAME` flag.
 
 ### Breadcrumbs
 
-It's possible to show breadcrumbs in your site using the `DISPLAY_BREADCRUMBS` flag. By default the article category isn't shown in the breadcrumbs, if you wish to enable it, set the `DISPLAY_CATEGORY_IN_BREADCRUMBS` flag to _True_.
+It's possible to show breadcrumbs in your site using the `DISPLAY_BREADCRUMBS`
+flag. By default the article category isn't shown in the breadcrumbs, if you
+wish to enable it, set the `DISPLAY_CATEGORY_IN_BREADCRUMBS` flag to _True_.
 
 ### Navbar
 
@@ -121,19 +150,46 @@ If you wish to use the inverse navbar from Bootstrap, set the flag `BOOTSTRAP_NA
 
 ### Related Posts
 
-This theme has support for the [Related Posts plugin](https://github.com/getpelican/pelican-plugins/tree/master/related_posts). All you have to do, is enable the plugin, and the theme will do the rest.
+This theme has support for the [Related Posts
+plugin](https://github.com/getpelican/pelican-plugins/tree/master/related_posts).
+All you have to do, is enable the plugin, and the theme will do the rest.
+
+### Series
+
+This theme supports the [Series
+plugin](https://github.com/getpelican/pelican-plugins/tree/master/series). If
+you enable the plugin you will find in the footer the links to the previous and
+next articles in the series.
+
+You may customize the header of this list setting the `SERIES_TEXT` variable,
+which can also include the `index` and `name` variables. The first is the index
+of the current article in the series (starting from 1) and the second is the
+name of the series. The default string is `Part %(index)s of the %(name)s
+series`.
+
+You may display on the sidebar the link to the previous and next article in the
+series setting `DISPLAY_SERIES_ON_SIDEBAR` to `True`.
+
+You may display information on the series just under the article title setting
+`SHOW_SERIES` to `True`.
 
 ### IPython Notebook support
 
-This theme supports including IPython notebooks through the [Liquid Tags plugin](https://github.com/getpelican/pelican-plugins/tree/master/liquid_tags). If you enable the plugin, the theme will automatically include the right CSS/JS to make the notebooks work.
+This theme supports including IPython notebooks through the [Liquid Tags
+plugin](https://github.com/getpelican/pelican-plugins/tree/master/liquid_tags).
+If you enable the plugin, the theme will automatically include the right CSS/JS
+to make the notebooks work.
 
 ### Favicon
 
-Set the `FAVICON` option in your `pelicanconf.py`. For example: `FAVICON = 'images/favicon.png'`
+Set the `FAVICON` option in your `pelicanconf.py`. For example: `FAVICON =
+'images/favicon.png'`
 
 ### Index page
 
-* If `DISPLAY_ARTICLE_INFO_ON_INDEX` is set to _True_, article info (date, tags) will be show under the title for each article, otherwise only title and summary will be shown (default).
+* If `DISPLAY_ARTICLE_INFO_ON_INDEX` is set to _True_, article info (date,
+  tags) will be show under the title for each article, otherwise only title and
+  summary will be shown (default).
 
 ### Short menu labels for pages
 
@@ -169,10 +225,14 @@ The following things can be displayed on the sidebar:
 ```
 SOCIAL = (('twitter', 'http://twitter.com/DaanDebie'),
           ('linkedin', 'http://www.linkedin.com/in/danieldebie'),
-          ('github', 'http://github.com/DandyDev'),)
+          ('github', 'http://github.com/DandyDev'),
+          ('stackoverflow', 'http://stackoverflow.com/users/872397/dandydev', 'stack-overflow')
 ```
-* **Tags** will be shown if `DISPLAY_TAGS_ON_SIDEBAR` is set to _True_. Normally, tags are shown as a list.
+The first string in each item will be used for both the name as shown in the sidebar, and to determine the [FontAwesome](http://fontawesome.io/icons/)
+icon to show. You can provide an alternative icon string as the third string (as shown in the _stackoverflow_ item).
+* **Tags** will be shown if `DISPLAY_TAGS_ON_SIDEBAR` is set to _True_ and the [tag_cloud](https://github.com/getpelican/pelican-plugins/tree/master/tag_cloud) plugin is enabled. Normally, tags are shown as a list.
 	* Set `DISPLAY_TAGS_INLINE` to _True_, to display the tags inline (ie. as tagcloud)
+	* Set `TAGS_URL` to the relative URL of the tags index page (typically `tags.html`)
 * **Categories** will be shown if `DISPLAY_CATEGORIES_ON_SIDEBAR` is set to _True_
 * **Recent Posts** will be shown if `DISPLAY_RECENT_POSTS_ON_SIDEBAR` is set to _True_
 	* Use `RECENT_POST_COUNT` to control the amount of recent posts. Defaults to **5**
@@ -192,7 +252,7 @@ If you're using reStructuredText for writing articles and pages, you can include
 
 ### Content license
 
-You can optionally declare a [Creative Commons license](http://creativecommons.org) for the content of your site. It will appear in the site's footer. To enable, use one of the following two ways for configuration.
+You can optionally declare a [Creative Commons license](https://creativecommons.org) for the content of your site. It will appear in the site's footer. To enable, use one of the following two ways for configuration.
 
 * To choose the license by name, set `CC_LICENSE` to the common abbreviated name of the license: `"CC-BY"` (require attribution), `"CC-BY-SA"` (require ShareAlike), `"CC-BY-ND"` (NoDerivatives) , `"CC-BY-NC"` (require attribution, no commercial reuse), `"CC-BY-NC-SA"` (require ShareAlike, no commercial reuse), or `"CC-BY-NC-ND"` (NoDerivatives, no commercial reuse).
 * Alternatively, choose the licence by features:
@@ -200,7 +260,14 @@ You can optionally declare a [Creative Commons license](http://creativecommons.o
     * `CC_LICENSE_COMMERCIAL` - `"yes"` if commercial reuse is permitted, and `"no"` otherwise.
 * Optionally, you can include attribution markup in the license mark by setting `CC_ATTR_MARKUP` to _True_.
 
-The license choice mirrors the [Creative Commons License Chooser](http://creativecommons.org/choose/). Source for the macro that renders the mark is at http://github.com/hlapp/cc-tools.
+The license choice mirrors the [Creative Commons License Chooser](https://creativecommons.org/choose/). Source for the macro that renders the mark is at http://github.com/hlapp/cc-tools.
+
+Alternatively, if you want to use another license type, you can instead use the `CUSTOM_LICENSE` property to set a license string that will be showed at the bottom of every page.
+Raw HTML is allowed.
+As `CC_*` variables take precedence, be sure to avoid `CC_*` variables when using `CUSTOM_LICENSE`.
+
+For example, if you want to use the WTFPL license, you can set:
+`CUSTOM_LICENSE='Unless otherwise stated, all articles are published under the <a href="http://www.wtfpl.net/about/">WTFPL</a> license.'`
 
 ### GitHub
 
@@ -261,16 +328,28 @@ This theme has support for the
 All you have to do, is:
 - enable the plugin, and the theme will add a search box on the right
   side of the menu
-- Add `DIRECT_TEMPLATES = (('search',))` in your `pelicanconf.py`.
-
+- Add `'search'` to the `DIRECT_TEMPLATES` in your `pelicanconf.py`. E.g. `DIRECT_TEMPLATES = ('index', 'categories', 'authors', 'archives', 'search').
+By default, the Tipue search page is configured at "/search.html", but you can override that with the `SEARCH_URL` 
+setting, which comes in handy if you have fancy rewrite rules in your Apache or Nginx configuration.
 
 ### Footer
 
 The footer will display a copyright message using the AUTHOR variable and the year of the latest post. If a content license mark is enabled (see above), that will be shown as well.
 
+### Sidebar Images
+
+Include a series of images in the sidebar, with an optional header:
+
+SIDEBAR_IMAGES_HEADER = 'My Images'
+SIDEBAR_IMAGES = ["/path/to/image1.png", "/path/to/image2.png"]
+
+Originally developed for including certification marks in your sidebar. E.g.,
+
+http://dmark.github.io
+
 ## Live example
 
-[This is my website](http://dandydev.net)
+[This is the website of the original author](http://dandydev.net)
 
 If you want more examples of what you could do with this theme, have a [look here](EXAMPLES.md).
 
