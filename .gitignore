@@ -2,3 +2,5 @@
 output
 cloudfront.sh
 *.pid
+.DS_Store
+**/.DS_Store
