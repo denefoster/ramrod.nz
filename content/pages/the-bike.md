@@ -3,7 +3,9 @@ Tags: bike
 Summary: info about the bike
 Authors: dane foster
 
-![bike]({photo}bike/IMG_5918.jpeg)
+F4:
+
+![f4]({photo}bike/IMG_5918.jpeg)
 
 Frame: Yamaha TZR250 1KT
 
@@ -24,4 +26,24 @@ Chain: 428 132L
 Sliders: [Big Knobs](http://www.bigknobs.com.au)
 
 Other: HEL braided lines, EBC HH pads
+
+F5:
+
+![f5]({photo}bike/IMG_0283.jpg)
+
+Frame: Suzuki RGV250 VJ21
+
+Front suspenstion: ??
+
+Rear suspension: ??
+
+Engine: Aprilia AM6 50cc
+
+Front Wheels: ??
+
+Rear Wheels: ??
+
+Tires: Racing Battlax V02
+
+Chain: 428 136L
 
