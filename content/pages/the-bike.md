@@ -21,6 +21,8 @@ Rear Wheels: FZR400 3LG
 
 Tires: Racing Battlax V02
 
+Sprockets: 14/46
+
 Chain: 428 132L
 
 Sliders: [Big Knobs](http://www.bigknobs.com.au)
