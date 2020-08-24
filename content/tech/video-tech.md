@@ -60,7 +60,7 @@ Select your combined video, and combined GPX file. Fuck around a lot with the Si
 
 I've only done single video feeds thus far, so don't need to get into the timeline. I've got a set of data object presets for the race already set out, the track map, speed, and lap board (10 laps, with fastest highlighted).
 
-![step 2395]({photo}video-gps/rr_step_3.png)
+![step 2395]({photo}video-gps/rr_step_3.jpg)
 
 Once the GPS + video is sync'd, and the object set applied, you're pretty much ready.
 

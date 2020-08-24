@@ -10,7 +10,7 @@ I knew I'd need a new carb at some point anyhow, and finally was able to CAD up 
 
 The design
 
-![intake CAD]({photo}new-flatslide/intake.png)
+![intake CAD]({photo}new-flatslide/intake.jpg)
 
 And the result.
 
