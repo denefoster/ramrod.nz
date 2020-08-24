@@ -56,6 +56,7 @@ PLUGINS = ["related_posts",
 #           "better_figures_and_images",
 #           "optimize_images",
            "photos",
+           "pelican_dynamic",
 #           "thumbnailer",
            "pelican_youtube"]
 DIRECT_TEMPLATES = ['index', 'archives', 'search']
@@ -66,6 +67,7 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
+GOOGLE_ANALYTICS = 'UA-102917539-1'
 
 # Blogroll
 #LINKS = (('Pelican', 'http://getpelican.com/'),
@@ -87,7 +89,12 @@ PHOTO_LIBRARY = "/Users/dene/devel/ramrod.nz/images"
 #PHOTO_GALLERY = (1024, 768, 80)
 #PHOTO_ARTICLE = ( 760, 506, 80)
 #PHOTO_THUMB = (192, 144, 60)
-
+#MARKDOWN = {
+#        'extension_configs': {
+#            'mdx_video': {},
+#            },
+#        'output_format': 'html5'
+#        }
 SITEMAP = {
     'format': 'xml',
     'priorities': {
