@@ -56,7 +56,7 @@ PLUGINS = ["related_posts",
 #           "better_figures_and_images",
 #           "optimize_images",
            "photos",
-           "pelican_dynamic",
+#           "pelican_dynamic",
 #           "thumbnailer",
            "pelican_youtube"]
 DIRECT_TEMPLATES = ['index', 'archives', 'search']
