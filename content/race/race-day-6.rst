@@ -77,4 +77,4 @@ Done and done, M. was a champ. We did a total of 57 laps, for 7th place. 22 for 
 
 So.. bike is good. I suck. First step is a new back protector that's not a full vest. Less heat == more racing. Hopefully the consistency will stick around, hitting mid-48s per lap (previously was 51-52s), need to keep that up for a full 6 races a day.
 
-And lastly, an avid reader asked how the video works, so see another post about `the tech <{filename}/tech/video-tech.md>`_
+And lastly, an avid reader asked how the video works, so see another post about `the tech </tech/video-tech.md>`_
